@@ -100,10 +100,10 @@ const radioItem = [
             <pre />
             1. Daily meeting 0.5h blb
             <pre />
-            2. AFS-616: Disable focus style when click on active. Adjust hover
+            2. ABC-101: Disable focus style when click on active. Adjust hover
             for disabled buttons 3h
             <pre />
-            3. AFS-616: Resolve problem with close overlay click modal on dev
+            3. ABC-101: Resolve problem with close overlay click modal on dev
             env 1h
             <pre />
             <Text fontWeight={600} mt={2}>
